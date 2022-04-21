@@ -7,10 +7,10 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
 h1 {
   color: blueviolet;
   text-align: center;
-  transition: all .3s;
+  transition: all 1s;
 }
 
 .tomatoTime {
   color: tomato;
-  transform: rotateY(180deg);
+  transform: rotateY(1080deg) scaleY(3);
 }
